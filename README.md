@@ -1,6 +1,5 @@
 # Rexta AI
 
-Description:
 <small>Rexta AI is a project developed during the Stratum 24 Hackathon at MREC College. 
 Built within 24 hours, it utilizes LLM (Large Language Models) in our system environment 
 and runs ChatGPT locally to provide an interactive AI experience.</small>
